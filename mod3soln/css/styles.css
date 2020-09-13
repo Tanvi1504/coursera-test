@@ -1,14 +1,14 @@
 body{
-	font-size: 20px;
-	font-family: sans-serif;
+	font-size: 16px;	
+  font-family: 'Exo 2', sans-serif;
 }
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar{
-	border: 2px solid white;
+  border: 2px solid #000 !important;
 }
 #header-nav{
-	background-color: grey;
-	border: 1px solid black;
-	border-radius: 0;
+  background-color:#999999;  
+  border:2px solid #000; 
+  border-radius: 0;
 }
 .navbar-brand{
   margin-top: 10px;
@@ -23,20 +23,20 @@ body{
   font-weight: bold;
   margin-top: 0;
   margin-bottom: 0;
-  line-height: .50;
-  margin-left: 05px;
+  line-height: .75;
+  margin-left: 15px;
 }
 .navbar-brand a:hover, .navbar-brand a:focus{
-  text-decoration: none; 
+  text-decoration: none;  
 }
 #nav-list{
-  border:0.5px solid;
+  border:1px solid;
 }
 #nav-list:nth-child(3){
   border-bottom:0;
 }
 #nav-list li{
-  background:white;
+  background:#fff;
   border-bottom:2px solid;
 }
 #nav-list li:nth-child(3){
@@ -54,8 +54,8 @@ body{
   font-weight: bold;
   margin-top: -3px;
 }
-/*.menu-content{ 
-  margin-top:40px;*/
+.menu-content{ 
+  margin-top:40px;
 }
 .menu-title{
   font-weight: bold;
@@ -69,11 +69,11 @@ body{
   font-weight: bold;
 }
 .menu-item p{
-  font-weight:700;
+  font-weight:600;
   font-size: .9em;
-  padding: 10px 20px;
+  padding: 5px 10px;
 }
-/*@media (max-width:767px){
+@media (max-width:767px){
   .navbar-brand:focus, .navbar-brand{
     margin-left:10px;
   }
@@ -88,4 +88,4 @@ body{
     font-size: 1em;
     padding:5px 15px;
   }
-} */
+} 
