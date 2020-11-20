@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="mystyle.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<title>MIT-WPU, Pune</title>
+</head>
+<body>
+<h1><div class="cont1"><strong>MIT WORLD PEACE UNIVERSITY, PUNE</strong></div></h1>
+<h5 id="head5"><strong>TECHNOLOGY, RESEARCH, SOCIAL INNOVATION & PARTNERSHIP</strong></h5>
+
+<div class="i2">
+	<img src="mit2.jpeg" alt="Stucture" width="90px" height="80px">
+</div>
+
+
+<div class="tb1">
+<p id="p1"><strong>Welcome to MIT-WPU</strong></p>
+<p id="p4"><i><strong>MIT-World Peace University (MIT-WPU) is known to be among the top education institutions in India since the establishment of the MIT Group of Institutes in 1983. Witnessing rapid growth & expansion the MIT Group now encompasses 10+ campuses across India covering more than 1000 acres, all equipped with state of the art infrastructure and amenities. At any given point of time, more than 50,000 students are pursuing various courses across 65+ Institutes of MIT World Peace University.</strong></i></p>
+</div>
+
+<div class="i1">
+	<img src="stu.jpg" alt="student" width="630px" height="390px">
+</div>
+
+<div class="tb2">
+<strong><h3 id="head3"><strong>Fields in MIT-WPU:</strong></h3>
+<div class="cont2">
+<ul><strong>
+	<li>Engineering</li>
+	<li>Pharmacy</li>
+	<li>Law</li>
+	<li>Commerce</li>
+	<li>Arts</li>
+	<li>Business</li>	
+</strong></ul></div></div>
+
+
+<div class="tb4"><p id="p2"> <strong>For admissions 2020-21 <a href="https://www.mitwpu.edu.in">click here</a></strong></p></div>
+
+<div class="i3">
+	<img src="aaroh.jpg" alt="Aarohan" width="320px" height="248px">
+</div>
+
+<div class="i4">
+	<img src="summit.jpg" alt="Summit" width="295px" height="248px">
+</div>
+
+<div class="tb5"><h3 id="head3_1"><strong>Co-curricular activities:</strong></h3>
+<div class="cont">
+<ul><strong>
+	<li>Clubs</li>
+	<ul>
+		<li>MUN</li>
+		<li>Acceleracers</li>
+		<li>Robocon</li>
+	</ul>
+	<li>Sports(Summit)</li>
+	<li>Cultural(Aarohan)</li>
+</strong>
+</ul>
+</div>
+</div>
+
+<div class="tb6"><h3 id="head3_2"><strong>B.Tech fees sructure</strong></h3>
+<table><strong>
+	<tr>
+		<th>Fees type</th>
+		<th>Amount</th>
+	</tr>
+	<tr>
+		<td>Tuition</td>
+		<td>Rs.217,000</td>
+	</tr>
+	<tr>
+		<td>Other</td>
+		<td>Rs.93,000</td>
+	</tr>
+	<tr>
+		<td>Total</td>
+		<td>310,000</td>
+	</tr>
+</strong>
+</table>
+</div>
+
+<hr width="70%">
+
+<div class="tb8"><h3 id="head3_3"><strong> For Enquiry, fill the details here:</strong> <span class="glyphicon glyphicon-pencil"></span></h3>
+<form>
+	<p>NAME  <input type="text" name="name" size="70px"></p>
+	<p>CONTACT NO.  <input type="number" name="phone" size="60px"></p>
+	<p>EMAIL ID  <input type="email" name="mail" size="65px"></p>
+<ul>
+	<li>Engineering <input type="radio" name="A"></li>
+	<li>Pharmacy <input type="radio" name="B"></li>
+	<li>Law <input type="radio" name="C"></li>
+	<li>Commerce<input type="radio" name="D"></li>
+	<li>Arts<input type="radio" name="E"></li>
+	<li>Business<input type="radio" name="F"></li>
+</ul>
+	<p>ENQUIRY ABOUT <textarea name="G" cols="70px" rows="2px"></textarea></p>
+	<input id="subm" type="submit" name="SUBMIT">
+</form>
+</div>
+
+<div class="tb10"><h4 id="head4"><strong>For more details  <span class="glyphicon glyphicon-phone-alt"></span> 9876543210 <span class="glyphicon glyphicon-envelope"> </span> mit@gmail.com</strong></h4></div>
+
+</body>
+</html>
